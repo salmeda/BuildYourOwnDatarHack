@@ -1,0 +1,47 @@
+name,ring,quadrant,isNew,description
+Alteryx,Play,Data Science and Reporting,TRUE,The software is designed to make advanced analytics accessible to any data worker.
+H20.ai,Play,Data Science and Reporting,TRUE,the leading open source machine learning and artificial intelligence platform trusted by data scientists across 14K enterprises
+mlflow,Play,Data Science and Reporting,TRUE,Platform to manage Machine Learning Life cycle
+Kubeflow,Play,Data Science and Reporting,TRUE,Platform to enable machine learning pipelines
+comet,Play,Data Science and Reporting,TRUE,Platform for machine learning collaboration
+DataRobot,Play,Data Science and Reporting,TRUE,Platform for Automated ML
+AWS Sagemaker,Play,Data Science and Reporting,TRUE,"Machine learning platform for creating, training and deploying machine learning models"
+Looker,Play,Data Science and Reporting,TRUE,
+Tableau,Hold,Data Science and Reporting,FALSE,Data Viz tool
+Python,Hold,Data Science and Reporting,FALSE,High-level and general purpose programming language 
+R,Hold,Data Science and Reporting,FALSE,
+Julia,Invest,Data Science and Reporting,FALSE,
+EMR,,Infrastructure and hosting,TRUE,
+SQL Server,Disinvest,Infrastructure and hosting,FALSE,
+Snowflake,Invest,Infrastructure and hosting,TRUE,"Snowflake offers a cloud-based data storage and analytics service, generally termed ""data warehouse-as-a-service""."
+Docker,Play,Infrastructure and hosting,FALSE,
+Jenkins,Hold,Infrastructure and hosting,FALSE,
+Spark,Invest,Infrastructure and hosting,FALSE,
+Hadoop,Disinvest,Infrastructure and hosting,FALSE,
+rundeck,,Infrastructure and hosting,FALSE,
+Demio,,Infrastructure and hosting,,
+AWS Glue,Play,Infrastructure and hosting,TRUE,"AWS Glue is a fully managed extract, transform, and load (ETL) service"
+Snow Alert,Play,Infrastructure and hosting,TRUE,
+Collibra,Invest,Data Management,TRUE,
+AWS Data Catalog,,Data Management,TRUE,
+Informatica,,Data Management,FALSE,
+DataBricks,Play,Data Management,TRUE,
+Prefect,Invest,Data Management,TRUE,
+Confluence,Invest,Data Management,TRUE,
+Shell Energy Platform,Play,Data Management,TRUE,
+Neo4j,Play,Data Management,TRUE,
+AWS Data Pipeline,Play,Data Management,TRUE,
+Streamsets,Play,Data Management,TRUE,
+Oracle,,Data Management,FALSE,
+PostgreSQL,,Data Management,FALSE,
+Attuntity/ Qlik,,Data Management,,
+DBT_,Invest,Data Management,TRUE,
+Kafka Streaming,,Streaming,TRUE,
+airflow,,Streaming,TRUE,
+Confluent.io,,Streaming,TRUE,
+SSIS,,,,
+SSRS,,,,
+Hive,,,,
+Fivetran,,,,
+jira,,,,
+Bitbucket,,,,
