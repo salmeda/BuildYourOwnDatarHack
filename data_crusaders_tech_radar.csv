@@ -1,0 +1,47 @@
+name,ring,quadrant,isNew,description
+Alteryx,Play,Data Analytics and Reporting,TRUE,The software is designed to make advanced analytics accessible to any data worker.
+H20.ai,Play,Data Analytics and Reporting,TRUE,Open source library of ML algorithms
+mlflow,Play,Data Analytics and Reporting,TRUE,Platform to manage Machine Learning Life cycle
+Kubeflow,Play,Data Analytics and Reporting,TRUE,Platform to enable machine learning pipelines
+comet,Play,Data Analytics and Reporting,TRUE,Platform for machine learning collaboration
+DataRobot,Play,Data Analytics and Reporting,TRUE,Platform for Automated ML
+AWS Sagemaker,Play,Data Analytics and Reporting,TRUE,"Machine learning platform for creating, training and deploying machine learning models"
+Looker,Play,Data Analytics and Reporting,TRUE,BI and big data analytics platform
+Tableau,Hold,Data Analytics and Reporting,FALSE,Data Viz tool
+Python,Hold,Data Analytics and Reporting,FALSE,High-level and general purpose programming language 
+R,Hold,Data Analytics and Reporting,FALSE,Programming language and software environment for statistical computing
+Julia,Play,Data Analytics and Reporting,FALSE,"High level, high performance, dynamic programming language which is well-suited for numerical analysis and computational science"
+"Adobe Suite (Analytics, Target, DMP)",Play,Data Analytics and Reporting,FALSE,Data collector and customer targetting 
+EMR,Play,Infrastructure and hosting,TRUE,
+SQL Server,Disinvest,Infrastructure and hosting,FALSE,
+Snowflake,Invest,Infrastructure and hosting,TRUE,"Snowflake offers a cloud-based data storage and analytics service, generally termed ""data warehouse-as-a-service""."
+Docker,Play,Infrastructure and hosting,FALSE,Manage development environments - ease onboarding into D&I.
+Jenkins,Hold,Infrastructure and hosting,FALSE,"Free, open-source automation server"
+Spark,Invest,Infrastructure and hosting,FALSE,"unified analytics engine for big data processing, with built-in modules for streaming, SQL, machine learning and graph processing."
+Hadoop,Disinvest,Infrastructure and hosting,FALSE,
+rundeck,Hold,Infrastructure and hosting,FALSE,"Open source tool that helps to define, build, deploy and manage automation"
+Dremio,Play,Data Management,FALSE,Data Lake tool
+AWS Glue,Play,Infrastructure and hosting,TRUE,"AWS Glue is a fully managed extract, transform, and load (ETL) service"
+SnowAlert,Play,Infrastructure and hosting,TRUE,SnowAlert is a security analytics framework that uses the Snowflake Cloud Data Platform to identify security incidents across diverse data sources and time ranges.
+Collibra,Invest,Data Management,TRUE,Democratises data access (through data catalog)
+AWS Data Catalog,Play,Data Management,TRUE,
+Informatica,Play,Data Management,FALSE,
+DataBricks,Play,"Extract, Load, Transform",TRUE,Unified data analytics platform
+Prefect,Invest,Infrastructure and hosting,TRUE,Data Flow Automation. Similar to Airflow.
+Confluence,Invest,Data Management,TRUE,Web-based workplace wiki
+Shell Energy Platform,Play,Data Management,TRUE,Platform for data science and data sharing developed by Shell New Energies
+Neo4j,Play,Infrastructure and hosting,TRUE,Easy entry into graph databases
+AWS Data Pipeline,Play,"Extract, Load, Transform",TRUE,
+Streamsets,Play,"Extract, Load, Transform",TRUE,
+Attuntity/ Qlik,Play,"Extract, Load, Transform",TRUE,
+DBT_,Invest,"Extract, Load, Transform",TRUE,"Handles data transformation - the 'T' in Extract, Load, Transform"
+Kafka Streaming,Play,Infrastructure and hosting,TRUE,Event Streaming
+airflow,Hold,"Extract, Load, Transform",TRUE,"Programmatically author, schedule and monitor workflows"
+Confluent.io,Play,Infrastructure and hosting,TRUE,Managed service for event streaming
+SSIS,Disinvest,"Extract, Load, Transform",FALSE,
+SSRS,Disinvest,Data Analytics and Reporting,FALSE,
+Hive,Disinvest,Infrastructure and hosting,FALSE,Data warehouse on Hadoop
+Fivetran,Invest,"Extract, Load, Transform",TRUE,Fully managed data pipelines (automated data integration)
+Jira,Hold,Infrastructure and hosting,FALSE,"Tool for planning, tracking and managing agile and software development projects"
+Bitbucket,Hold,Infrastructure and hosting,FALSE,Version control repository
+Terraform,Play,Infrastructure and hosting,FALSE,
